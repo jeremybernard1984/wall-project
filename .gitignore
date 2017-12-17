@@ -10,11 +10,6 @@
 /packages
 /phpunit.xml
 /tmp/*
-/var/bootstrap.php.cache
-/var/cache/*
-/var/js/*
-/var/logs/*
-/var/sessions/*
 /vendor/
 /web/bundles/
 /web/css
@@ -22,3 +17,4 @@
 /web/img
 /web/js
 /web/uploads/
+/var/*
